@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///home/lorenzo/Documents/tutorial-vs-code-master/1st.html",
+            "url": "file:///home/lorenzo/Documents/tutorial-vs-code-master/tutorial-vs-code/1st.html",
             "webRoot": "${workspaceFolder}"
         }
     ]

@@ -11,7 +11,8 @@ if (FirstNumber == SecondNumber) {
 if (FirstNumber !== SecondNumber) {
     alert("Your Numbers are not equal");
 }*/
-var z = prompt("Do you have a Diploma?");
+
+/*var z = prompt("Do you have a Diploma?");
 var x = prompt("How old are you?");
 if (x < 20) {
     alert("Good for you ");
@@ -26,4 +27,4 @@ if (z.toLocaleLowerCase() == "yes") {
 }
 if (z.toLocaleLowerCase() == "no") {
     alert("You are not ready");
-}
+}*/

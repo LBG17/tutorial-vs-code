@@ -32,3 +32,12 @@ if (z.toLocaleLowerCase() == "no") {
 /*for (i = 0; i != 10; i++) {
     console.log(i);
 }*/
+
+function SolveEx2() {
+    var d = document.getElementById("SumNumbers100");
+    var sum = 0;
+    for (i = 0; i <= 10; i = i + 1) {
+        sum = sum + i;
+    }
+    d.innerHTML = d.innerHTML + "<br>" + sum.toString();
+}
